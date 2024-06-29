@@ -1,0 +1,1 @@
+Let us assume a Patient's coupon generator for the Doctors’ clinic. The patientsare given the coupons on first-come-first-serve basis. After the visit of a patient, patient-ID is kept stack-wise. At the end of the day, the count is generated fromthe stack. Construct a menu-based program for patients’ coupons generator using an appropriate data structure.
